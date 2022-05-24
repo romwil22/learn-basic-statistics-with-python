@@ -1,0 +1,7 @@
+conda command line:
+
+conda --version - display the current version
+conda create -n <name of environment> - creates a virtual environment
+conda list - displays all the packages installed in the venv
+jupyter notebook - launch jupyter notebook browser
+conda activate <name of venv> - activate the venv
